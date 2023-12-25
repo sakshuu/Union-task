@@ -42,7 +42,7 @@ const Footer = () => {
 
 
 <p>Copyright @ 2023 masters’ union</p>
-<div className='d-flex gap-3'>
+<div className='d-flex flex-wrap gap-3'>
 <p>Privacy Policy</p>
 <p>Terms and Conditions</p>
 <p>Cookie Policy</p>

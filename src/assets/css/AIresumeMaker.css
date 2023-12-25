@@ -48,7 +48,8 @@
 }
 @media (max-width:500px) {
     .sub-img{
-        width: 95% !important;
+        width: 75% !important;
+        margin-left: 14px;
     }
 }
 .btn-home{
