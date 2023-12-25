@@ -9,9 +9,9 @@ const AIresumeMaker = () => {
   <img src={Rectangle} className='rectangle-img' alt="" />
   <div className='main-content'>
 <h1>
-Welcome to AI Resume
+Welcome to <span className='color-text'>AI Resume</span> 
 <br /> 
-Maker ! Your path to
+<span className='color-text'>Maker !</span>  Your path to
 <br /> 
 professional success !</h1>
 {/* <div> */}
