@@ -70,18 +70,6 @@ const Myswipers = () => {
         <SwiperSlide>
           <img src={resumeGuy} />
         </SwiperSlide>
-        <SwiperSlide>
-          <img src={resumeSec} />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={resumeSop} />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={resumeSophia} />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={resume} />
-        </SwiperSlide>
       </Swiper>
         </div>
   </>
