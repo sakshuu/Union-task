@@ -1,0 +1,36 @@
+.swiper {
+	width: 80%;
+	margin-top: 20px;
+	height: 75vmin;
+  }
+  .swiper-slide {
+   background-position: center;
+   background-size: cover;
+   width: 250px;
+  }
+  .swiper-slide img {
+	display: block;
+	width: 80%;
+  }
+  .footer-swiper{
+	margin-top: 10px;
+  }
+  .card{
+	background-color: aliceblue;
+	padding: 0px;
+  }
+  .swiper-footer{
+	padding: 6px;
+  }
+@media (min-device-height: 200px) {
+	.swiper  {
+	  height: 85%;
+	}
+  }
+  .bg-container{
+    background-color: #FAFAFA;
+    padding: 40px;
+    width: 100% !important;
+  }
+ 
+

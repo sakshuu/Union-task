@@ -1,0 +1,38 @@
+.card-main{
+    width: 400px;
+    background-color: white !important;
+}
+.choose-resume{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.icons{
+    border: 1px solid #7757F4;
+    border-radius: 10px;
+    padding: 1px;
+}
+.card-centers{
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+.card-header{
+    background-color: #7757F4;
+    color: white;
+}
+.card-sub-content{
+
+    padding: 60px !important;
+}
+.btn-light{
+    color:  #7757F4 ;
+}
+.btn-light:hover{
+    color: #7757F4;
+}
+.card-body{
+    background-color: white;
+    padding: 50px;
+}

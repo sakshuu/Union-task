@@ -1,0 +1,40 @@
+.main{
+    position: relative !important;
+}
+.main-content{
+    position: absolute !important;
+     top: 20px;
+    left: 35%;
+    top: 25%; 
+}
+.content-pen{
+    background-color: white;
+    padding: 5px;
+    max-width: 30%;
+    border-radius: 20px;
+}
+.bg-pen{
+    background-color: #7757F4;
+    padding: 4px;
+    border-radius: 50%;
+}
+
+.main-sub{
+    position: absolute !important;
+    top: 318px !important;
+    left: 20%;
+
+}
+.rectangle-img {
+    width: 100% !important;
+    height: 72vh !important;
+}
+
+.sub-img{
+    width: 85%;
+}
+.btn-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,16 +1,16 @@
 import React from 'react'
-import { AIresumeMaker, ChooseSectionResume, Footer, MyNavbar, SubFooter, Swiper } from '../components'
+import { AIresumeMaker, ChooseSectionResume, Footer, MyNavbar, Myswipers, SubFooter,  } from '../components'
 
 const Home = () => {
   return <>
   <MyNavbar/>
-  <div>
   <AIresumeMaker/>
+  <div className='container-main'>
   <ChooseSectionResume/>
-  </div>
-  <Swiper/>
+  <Myswipers/>
   <SubFooter/>
   <Footer/>
+  </div>
   </>
 }
 
