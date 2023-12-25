@@ -8,29 +8,33 @@ const Footer = () => {
 
 
 <div className='row'>
-  <div className="col-3">
-  <div className='d-flex gap-2 '>
+  <div className="col-md-3 col-sm-12">
+  <div className='d-flex gap-2'>
     <img src={iconMain} width={40} height={40} alt="" />
     <h5 className='mt-2'>Resume.AI</h5>
   </div>
   </div>
-  <div className="col-3">
+
+
+  <div className="col-md-3 col-4">
   <div className='line'>
     <p>home</p>
     <p>about</p>
   </div>
   </div>
-  <div className="col-3">
+  <div className="col-md-3 col-4">
   <div className='line'>
      <p>home</p>
      <p>home</p>
   </div>
   </div>
-  <div className="col-3">
+  <div className="col-md-3 col-4">
   <div className='line'>
         <p>about</p>
   </div>
   </div>
+
+
 </div>
 </div>
 <hr  className='line-horizontal'/>

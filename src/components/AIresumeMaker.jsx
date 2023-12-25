@@ -1,5 +1,5 @@
 import React from 'react'
-import { Frame, Rectangle, pen } from '../assets/img'
+import { Frame, Rectangle } from '../assets/img'
 import "./../assets/css/AIresumeMaker.css"
 
 const AIresumeMaker = () => {
@@ -24,7 +24,7 @@ professional success !</h1>
 </div>
   </div>
   <div className='main-sub'>
-    <img src={Frame} className='sub-img ' alt="" />
+    <img src={Frame} className='sub-img' alt="" />
   </div>
   
   </div>

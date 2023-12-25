@@ -1,3 +1,4 @@
+
 .card-main{
     width: 400px;
     background-color: white !important;
@@ -35,4 +36,22 @@
 .card-body{
     background-color: white;
     padding: 50px;
+}
+@media (max-width:500px) {
+    .chooseAI{
+        width: 100%;
+    }
+    .card-main{
+        width: 250px !important;
+        margin-left: 18px;
+    }
+    .women-img{
+        width: 300px;
+    }
+    .interface-img{
+        width: 300px;
+    }
+    .interface-content{
+        margin-top: 35px;
+    }
 }

@@ -16,6 +16,15 @@ text-align: center;
     padding-top: 30px;
     
 }
+@media (max-width:500px) {
+    .main-footer{
+        padding-top: 20px;
+    }
+    .line{
+        margin-top: 20px;
+        height: 60px !important;
+    }
+}
 .line{
     border-left: 1px solid gray;
     height: 80px;
@@ -24,3 +33,4 @@ text-align: center;
 .line-horizontal{
     margin-top: 60px;
 }
+

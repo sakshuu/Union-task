@@ -7,6 +7,8 @@
     left: 35%;
     top: 25%; 
 }
+
+
 .content-pen{
     background-color: white;
     padding: 5px;
@@ -23,15 +25,31 @@
     position: absolute !important;
     top: 318px !important;
     left: 20%;
-
 }
+@media (max-width:500px) {
+    .main-sub{
+        top: 180px !important;
+        left: 1px !important;
+    }
+}
+
 .rectangle-img {
     width: 100% !important;
     height: 72vh !important;
 }
+@media (max-width:500px) {
+    .rectangle-img{
+        height: 40vh !important;
+    }
+}
 
 .sub-img{
     width: 85%;
+}
+@media (max-width:500px) {
+    .sub-img{
+        width: 95% !important;
+    }
 }
 .btn-home{
     display: flex;

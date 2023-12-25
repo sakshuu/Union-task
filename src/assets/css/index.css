@@ -15,9 +15,17 @@
 }
 .container-main{
 margin-top: 30%;
-
 }
+
 .center{
     text-align: center;
     font-weight: 600;
+  }
+  @media (max-width:500px) {
+    *{
+        font-size: 12px !important;
+    }
+    .container-main{
+        margin-top: 50%;
+    } 
   }
